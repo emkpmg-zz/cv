@@ -3,3 +3,5 @@ This computer vision project implements an image recognition model from scratch 
 
 N.B: Small GPUs mat throw an out of memory error 
 
+ACK
+Datasets sourced from https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw
